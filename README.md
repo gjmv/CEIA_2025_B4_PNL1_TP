@@ -30,7 +30,7 @@ Bimestre 4
 
 ## Desafío 1
 <p align="center">
-  <img src="./images/desafio_1.png" width="350" title="FIUBA" alt="Desafío 1">
+  <img src="./images/Desafio_1.png" width="350" title="FIUBA" alt="Desafío 1">
 </p>
 
 Exploración con diferentes técnicas de representación numérica de texto (documentos y palabras). Aplicación a tareas de clasificación y análisis de similaridad.
@@ -44,7 +44,7 @@ Link: [Notebook Desafio_1](Desafio_1.ipynb) / [Colab Desafio_1](https://colab.re
 
 ## Desafío 2
 <p align="center">
-  <img src="./images/desafio_2.png" width="350" title="FIUBA" alt="Desafío 2">
+  <img src="./images/Desafio_2.png" width="350" title="FIUBA" alt="Desafío 2">
 </p>
 
 Aplicación de técnicas de embeddings de palabras a un texto para comprender las relaciones léxicas y semánticas intrínsecas a esa obra específica.
@@ -58,7 +58,7 @@ Link: [Notebook Desafio_2](Desafio_2.ipynb) / [Colab Desafio_2](https://colab.re
 
 ## Desafío 3
 <p align="center">
-  <img src="./images/desafio_3.png" width="350" title="FIUBA" alt="Desafío 3">
+  <img src="./images/Desafio_3.png" width="350" title="FIUBA" alt="Desafío 3">
 </p>
 
 Construcción de un modelo de generación de texto y análisis de cómo distintas estrategias de muestreo influyen en la calidad del lenguaje generado.
@@ -71,8 +71,9 @@ Link: [Notebook Desafio_3](Desafio_3.ipynb) / [Colab Desafio_3](https://colab.re
 
 
 ## Desafío 4
+![img ]
 <p align="center">
-  <img src="./images/desafio_4.png" width="350" title="FIUBA" alt="Desafío 4">
+  <img src="./images/Desafio_4.png" width="350" title="FIUBA" alt="Desafío 4">
 </p>
 
 Construcción de un modelo de traducción de inglés a español utilizando una arquitectura seq2seq (encoder-decoder), basándose en los datos del Tatoeba Project, implementado en Pytorch.
@@ -83,6 +84,6 @@ Construcción de un modelo de traducción de inglés a español utilizando una a
 * Exploración de Hiperparámetros
 * Demostración de Traducciones
 
-Link: [Notebook Desafio_4](Desafio_4.ipynb) / [Colab Desafio_4](https://colab.research.google.com/github/gjmv/CEIA_2025_B4_PNL1_TP/blob/main/Desafio_4.ipynb)
-
+Link: [Notebook Desafio_4](Desafio_4.ipynb) / [Colab Desafio_4](https://colab.research.google.com/github/gjmv/CEIA_2025_B4_PNL1_TP/blob/main/Desafio_4.ipynb)  
+Debido a limitaciones de memoria, se realizó una versión limitada para ejecución en colab: [Notebook Desafio_4_colab](Desafio_4_colab.ipynb) / [Colab Desafio_4_colab](https://colab.research.google.com/github/gjmv/CEIA_2025_B4_PNL1_TP/blob/main/Desafio_4_colab.ipynb)
 
